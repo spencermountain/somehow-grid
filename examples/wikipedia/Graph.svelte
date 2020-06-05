@@ -15,8 +15,9 @@
   <div>
     <a class="link" href="https://github.com/spencermountain/somehow-grid">somehow-grid</a>
   </div>
-  <Grid total="500">
+  <Grid total="500" size="15">
     <Part color="orange" count="100" />
-    <Part color="sky" count="100" />
+    <Part color="sky" count="200" label="blue" />
+    <Part color="rose" count="100" label="rose" />
   </Grid>
 </div>
