@@ -38,7 +38,6 @@
 
   onMount(() => {
     calculate($parts)
-    console.log(labels)
   })
 </script>
 
