@@ -16,7 +16,7 @@
     squares = []
     labels = []
     let already = 0
-    $parts.forEach(o => {
+    parts.forEach(o => {
       let num = Number(o.count)
       if (o.label) {
         labels.push({

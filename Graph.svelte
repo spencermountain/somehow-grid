@@ -1,5 +1,5 @@
 <script>
-  import { Grid, Part } from '../../src'
+  import { Grid, Part } from './src'
 </script>
 
 <style>
