@@ -12,7 +12,7 @@
 </style>
 
 <div style="width:50%; margin:4rem;">
-  <div>
+  <div style="margin:3rem; font-size:1.5rem; color:steelblue;">
     <a class="link" href="https://github.com/spencermountain/somehow-grid">somehow-grid</a>
   </div>
   <Grid total="500" size="15">

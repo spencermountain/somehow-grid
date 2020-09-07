@@ -1108,7 +1108,10 @@ var app = (function () {
     			create_component(grid.$$.fragment);
     			attr_dev(a, "class", "link svelte-iqp542");
     			attr_dev(a, "href", "https://github.com/spencermountain/somehow-grid");
-    			add_location(a, file$2, 15, 4, 229);
+    			add_location(a, file$2, 15, 4, 285);
+    			set_style(div0, "margin", "3rem");
+    			set_style(div0, "font-size", "1.5rem");
+    			set_style(div0, "color", "steelblue");
     			add_location(div0, file$2, 14, 2, 219);
     			set_style(div1, "width", "50%");
     			set_style(div1, "margin", "4rem");

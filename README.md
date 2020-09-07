@@ -34,6 +34,6 @@ work-in-progress,
 </Grid>
 ```
 
-![image](https://user-images.githubusercontent.com/399657/83908152-9baa7900-a734-11ea-8f86-5a8efba30418.png)
+![image](https://user-images.githubusercontent.com/399657/92409898-30e05380-f110-11ea-965c-b8e7d4c1cb25.png)
 
 MIT
